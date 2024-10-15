@@ -7,7 +7,8 @@
 ### 1)	AWS Project - Build a Game with a Continuous Deployment Pipeline from GitHub to S3 | AWS Tutorial
 Host the code in GitHub – create a pipeline that will pull that code every time we make a change.
 And deploy it out to an S3 bucket.
-
+<br>
+<br>
 
 ### 2)	AWS Project - Build a Full End-to-End Web Application with 7 Services | Step-by-Step Tutorial<br>
 ![1](https://github.com/user-attachments/assets/e8598cf8-7fb7-4676-97c1-f2e5772327b4)
