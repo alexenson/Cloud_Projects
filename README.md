@@ -73,7 +73,7 @@ You create the CodePipeline that will automate and orchestrate getting the code 
 
 
 
-4)	Architect and Build an End-to-End AWS Web Application 
+# 4)	Architect and Build an End-to-End AWS Web Application 
 Using AWS services such as, AWS Amplify, AWS Lambda, Amazon API Gateway, Amazon DynamoDB, AWS Identity & Access Management (IAM)
 
  
@@ -152,7 +152,7 @@ So, when you enter your numbers in the base field and in the exponent field and 
 
 
 
-5)	Serverless Email Marketing Application
+# 5)	Serverless Email Marketing Application
  
  
 •	Amazon Simple Email Service (SES) will be used to send the emails.
@@ -341,7 +341,7 @@ If you want to enhance the project you could do the below.
 
 
 
-6)	Building a React App with Amplify, Cognito, and CI/CD with GitHub
+# 6)	Building a React App with Amplify, Cognito, and CI/CD with GitHub
 
 
 
