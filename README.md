@@ -56,7 +56,7 @@ Users are going to request a ride that will invoke the Lambda function. The func
 Because we are using Cognito user pools – we need to create an authorizer. To authenticate calls – API Gateway uses JWTs (JSON Web Token) that are returned by Cognito. So here we are hooking up the two parts by creating this authorizer. 
 
 
-3)	Building a Game with a Continuous Deployment Pipeline from GitHub to S3
+# 3)	Building a Game with a Continuous Deployment Pipeline from GitHub to S3
 
 Host the code in GitHub, create a pipeline using CodePipeline, that will pull that code every time a change is made and deploy it out to an S3 bucket.
 
