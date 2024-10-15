@@ -1,15 +1,15 @@
 # Cloud_Projects
-Various Cloud Projects
+## Various Cloud Projects
 
 
 
 
-1)	AWS Project - Build a Game with a Continuous Deployment Pipeline from GitHub to S3 | AWS Tutorial
+### 1)	AWS Project - Build a Game with a Continuous Deployment Pipeline from GitHub to S3 | AWS Tutorial
 Host the code in GitHub – create a pipeline that will pull that code every time we make a change.
 And deploy it out to an S3 bucket.
 
 
-2)	AWS Project - Build a Full End-to-End Web Application with 7 Services | Step-by-Step Tutorial
+### 2)	AWS Project - Build a Full End-to-End Web Application with 7 Services | Step-by-Step Tutorial
 
  
  
