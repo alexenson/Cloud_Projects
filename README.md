@@ -12,6 +12,7 @@ And deploy it out to an S3 bucket.
 
 ![1](https://github.com/user-attachments/assets/4a462705-7b5a-4523-8e45-25fda389303e)
 
+![2](https://github.com/user-attachments/assets/90b71d8f-78ad-433f-a390-297a39b0377b)
 
 
 
