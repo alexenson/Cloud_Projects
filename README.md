@@ -20,8 +20,11 @@ Let’s navigate to s3 in the Amazon console.<br>
 Then create a bucket.<br>
 ![Capture](https://github.com/user-attachments/assets/09bb8d27-6ab0-44cb-984d-40c0286d37a3)
 
-We will call the bucket, *my-meme-game*.<br>
-![Capture](https://github.com/user-attachments/assets/d7e450df-4fdd-4b98-96c0-b55a5d840489)
+We will call the bucket, *my-meme-game*.
+S3 buckets have to be globally unique across all of AWS - so you would have to add some initials and date.
+We will leave the region as is. But you can select a different one if you want.<br>
+![Capture](https://github.com/user-attachments/assets/a9497966-3cfd-4ae1-bea2-131813a9c2e7)
+
 
 
 
