@@ -28,7 +28,8 @@ We will leave the region as is. But you can select a different one if you want.<
 Scrolling down – we will deselect *Block all public access*.<br>
 ![1](https://github.com/user-attachments/assets/98ded3c4-d621-4bd0-85eb-ccdcf0c2104d)
 
-
+![2](https://github.com/user-attachments/assets/02f5aa5c-c609-4492-9af7-b317d793e07c)<br>
+As we are creating a static website that we want to be available to the world.
 
 
 
