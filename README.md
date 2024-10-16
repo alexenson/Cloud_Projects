@@ -21,7 +21,7 @@ Then create a bucket.<br>
 ![Capture](https://github.com/user-attachments/assets/09bb8d27-6ab0-44cb-984d-40c0286d37a3)
 
 We will call the bucket, *my-meme-game*.
-S3 buckets have to be globally unique across all of AWS - so you would have to add some initials and date.
+S3 buckets have to be globally unique across all of AWS - so you would have to add some initials or a date.
 We will leave the region as is. But you can select a different one if you want.<br>
 ![Capture](https://github.com/user-attachments/assets/a9497966-3cfd-4ae1-bea2-131813a9c2e7)
 
