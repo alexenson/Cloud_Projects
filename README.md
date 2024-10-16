@@ -33,7 +33,10 @@ Scrolling down – we will deselect *Block all public access*.<br>
 As we are creating a static website that we want to be available to the world.
 
 
+However, in the real world though – if you are building something for work – this is usually not a good idea.
 
+So you would need to acknowledge that you know what you are doing.<br>
+![3](https://github.com/user-attachments/assets/44adb930-ae57-415a-9214-5fffefb2ee05)
 
 
 
