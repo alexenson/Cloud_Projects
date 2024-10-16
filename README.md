@@ -25,7 +25,8 @@ S3 buckets have to be globally unique across all of AWS - so you would have to a
 We will leave the region as is. But you can select a different one if you want.<br>
 ![Capture](https://github.com/user-attachments/assets/a9497966-3cfd-4ae1-bea2-131813a9c2e7)
 
-
+Scrolling down – we will deselect *Block all public access*.<br>
+![1](https://github.com/user-attachments/assets/98ded3c4-d621-4bd0-85eb-ccdcf0c2104d)
 
 
 
