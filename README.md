@@ -38,6 +38,10 @@ However, in the real world though – if you are building something for work –
 So you would need to acknowledge that you know what you are doing.<br>
 ![3](https://github.com/user-attachments/assets/44adb930-ae57-415a-9214-5fffefb2ee05)
 
+We will scroll down and leave the defaults.
+
+Then we will click on Create bucket.<br>
+![4](https://github.com/user-attachments/assets/62d90b84-6345-43aa-9e6a-d46e2d7fba7c)
 
 
 <br>
