@@ -21,7 +21,8 @@ Then create a bucket.<br>
 ![Capture](https://github.com/user-attachments/assets/09bb8d27-6ab0-44cb-984d-40c0286d37a3)
 
 We will call the bucket, *my-meme-game*.<br>
-![Capture](https://github.com/user-attachments/assets/a79cd615-9b81-4ad6-a69d-8d1211c3c9ba)
+![Capture](https://github.com/user-attachments/assets/d7e450df-4fdd-4b98-96c0-b55a5d840489)
+
 
 
 
