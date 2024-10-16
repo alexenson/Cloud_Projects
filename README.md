@@ -17,6 +17,9 @@ And deploy it out to an S3 bucket.
 Let’s navigate to s3 in the Amazon console.<br>
 ![Capture](https://github.com/user-attachments/assets/6d5ce884-5e24-4aba-a7b0-4a21ee061378)
 
+Then create a bucket.<br>
+![Capture](https://github.com/user-attachments/assets/09bb8d27-6ab0-44cb-984d-40c0286d37a3)
+
 
 
 <br>
